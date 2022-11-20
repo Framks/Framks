@@ -1,7 +1,5 @@
 - 👋 Olá, me chamo Francisco.
-- 👀 Estou enteressado em aprender coisas novas.
 - 🌱 Estou aprendendo back-end.
-- 📫 meu contato @franciscogabriel711 no instagram.
 - 📖 Estou estudando na Universidade Federal do Ceará.
 - 👨‍💻 Cursando Sistemas de informação.
 
